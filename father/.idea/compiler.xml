@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="son-redis" />
+        <module name="son-rabbitmq" />
+        <module name="son-transaction" />
+        <module name="son-restful" />
+        <module name="njg_waterplatform" />
+        <module name="son-swagger" />
+        <module name="son-mybatis" />
+        <module name="son-jpa" />
+        <module name="son-redis-cache" />
+        <module name="son-jdbctemplate" />
+        <module name="son-fileupload" />
+        <module name="son-helloworld" />
+        <module name="son-mongodb" />
+        <module name="son-elasticsearch" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="father" target="1.8" />
+      <module name="njg_waterplatform" target="1.8" />
+      <module name="son-elasticsearch" target="1.8" />
+      <module name="son-fileupload" target="1.8" />
+      <module name="son-helloworld" target="1.8" />
+      <module name="son-jdbctemplate" target="1.8" />
+      <module name="son-jpa" target="1.8" />
+      <module name="son-mongodb" target="1.8" />
+      <module name="son-mybatis" target="1.8" />
+      <module name="son-rabbitmq" target="1.8" />
+      <module name="son-redis" target="1.8" />
+      <module name="son-redis-cache" target="1.8" />
+      <module name="son-restful" target="1.8" />
+      <module name="son-swagger" target="1.8" />
+      <module name="son-swagger2" target="1.8" />
+      <module name="son-transaction" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="father" options="" />
+      <module name="njg_waterplatform" options="-parameters" />
+      <module name="son-elasticsearch" options="-parameters" />
+      <module name="son-fileupload" options="-parameters" />
+      <module name="son-helloworld" options="-parameters" />
+      <module name="son-jdbctemplate" options="-parameters" />
+      <module name="son-jpa" options="-parameters" />
+      <module name="son-mongodb" options="-parameters" />
+      <module name="son-mybatis" options="-parameters" />
+      <module name="son-rabbitmq" options="-parameters" />
+      <module name="son-redis" options="-parameters" />
+      <module name="son-redis-cache" options="-parameters" />
+      <module name="son-restful" options="-parameters" />
+      <module name="son-swagger" options="-parameters" />
+      <module name="son-swagger2" options="-parameters" />
+      <module name="son-transaction" options="-parameters" />
+    </option>
+  </component>
+</project>

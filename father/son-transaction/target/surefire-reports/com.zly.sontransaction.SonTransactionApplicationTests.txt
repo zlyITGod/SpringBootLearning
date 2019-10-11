@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: com.zly.sontransaction.SonTransactionApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 4.745 s <<< FAILURE! - in com.zly.sontransaction.SonTransactionApplicationTests
+testTrade1(com.zly.sontransaction.SonTransactionApplicationTests)  Time elapsed: 1.071 s  <<< ERROR!
+java.lang.ArithmeticException: / by zero
+	at com.zly.sontransaction.SonTransactionApplicationTests.testTrade1(SonTransactionApplicationTests.java:25)
+
+testTrade2(com.zly.sontransaction.SonTransactionApplicationTests)  Time elapsed: 0.064 s  <<< ERROR!
+java.lang.ArithmeticException: / by zero
+	at com.zly.sontransaction.SonTransactionApplicationTests.testTrade2(SonTransactionApplicationTests.java:36)
+
+testTrade3(com.zly.sontransaction.SonTransactionApplicationTests)  Time elapsed: 0.032 s  <<< ERROR!
+java.lang.ArithmeticException: / by zero
+	at com.zly.sontransaction.SonTransactionApplicationTests.testTrade3(SonTransactionApplicationTests.java:46)
+

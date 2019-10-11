@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/father.iml" filepath="$PROJECT_DIR$/father.iml" />
+      <module fileurl="file://F:/SVN工作代码/njg_waterplatform/njg_waterplatform.iml" filepath="F:/SVN工作代码/njg_waterplatform/njg_waterplatform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/son-elasticsearch/son-elasticsearch.iml" filepath="$PROJECT_DIR$/son-elasticsearch/son-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/son-fileupload/son-fileupload.iml" filepath="$PROJECT_DIR$/son-fileupload/son-fileupload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/son-helloworld/son-helloworld.iml" filepath="$PROJECT_DIR$/son-helloworld/son-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/son-jdbctemplate/son-jdbctemplate.iml" filepath="$PROJECT_DIR$/son-jdbctemplate/son-jdbctemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/son-jpa/son-jpa.iml" filepath="$PROJECT_DIR$/son-jpa/son-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/son-mongodb/son-mongodb.iml" filepath="$PROJECT_DIR$/son-mongodb/son-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/son-mybatis/son-mybatis.iml" filepath="$PROJECT_DIR$/son-mybatis/son-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/son-rabbitmq/son-rabbitmq.iml" filepath="$PROJECT_DIR$/son-rabbitmq/son-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/son-redis/son-redis.iml" filepath="$PROJECT_DIR$/son-redis/son-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/son-redis-cache/son-redis-cache.iml" filepath="$PROJECT_DIR$/son-redis-cache/son-redis-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/son-restful/son-restful.iml" filepath="$PROJECT_DIR$/son-restful/son-restful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/son-swagger/son-swagger.iml" filepath="$PROJECT_DIR$/son-swagger/son-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/son-transaction/son-transaction.iml" filepath="$PROJECT_DIR$/son-transaction/son-transaction.iml" />
+    </modules>
+  </component>
+</project>

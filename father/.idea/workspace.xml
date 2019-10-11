@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5781614f-b0a8-4b07-968d-93dc2d6b1c3b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ROy2n18RbbaTU7UU4GaC3pw0OB" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/son-elasticsearch/src/test/java/com/zly/sonelasticsearch/repository" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15361744" />
+    <property name="project.structure.side.proportion" value="0.6775148" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.zly.sonrabbitmq" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zly.sonfileupload.util" />
+      <recent name="com.zly.sonrabbitmq.publish.recv" />
+      <recent name="com.zly.sonrabbitmq.work.recv" />
+      <recent name="com.zly.sonrabbitmq.work.send" />
+      <recent name="com.zly.sonswagger.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Program Files\IDEA\workspace\father\son-elasticsearch\src\test\java\com\zly\sonelasticsearch\repository" />
+      <recent name="E:\Program Files\IDEA\workspace\father\son-elasticsearch\src\main\java\com\zly\sonelasticsearch" />
+      <recent name="E:\Program Files\IDEA\workspace\father\son-fileupload\src\main\java\com\zly\sonfileupload\controller" />
+      <recent name="E:\Program Files\IDEA\workspace\father\son-fileupload\src\main\resources" />
+      <recent name="E:\Program Files\IDEA\workspace\father\son-fileupload\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SonElasticsearchApplication">
+    <configuration name="Recv (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zly.sonrabbitmq.topic.recv.Recv" />
+      <module name="son-rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zly.sonrabbitmq.topic.recv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zly.sonrabbitmq.routingkey.recv.Recv" />
+      <module name="son-rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zly.sonrabbitmq.routingkey.recv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recv2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zly.sonrabbitmq.topic.recv.Recv2" />
+      <module name="son-rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zly.sonrabbitmq.topic.recv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Send" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zly.sonrabbitmq.fairwork.send.Send" />
+      <module name="son-rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zly.sonrabbitmq.fairwork.send.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Send" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zly.sonrabbitmq.topic.send.Send" />
+      <module name="son-rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zly.sonrabbitmq.topic.send.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Send" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zly.sonrabbitmq.fairwork.send.Send" />
+      <module name="son-rabbitmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zly.sonrabbitmq.fairwork.send.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SonElasticsearchApplicationTests.insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="son-elasticsearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zly.sonelasticsearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zly.sonelasticsearch" />
+      <option name="MAIN_CLASS_NAME" value="com.zly.sonelasticsearch.SonElasticsearchApplicationTests" />
+      <option name="METHOD_NAME" value="insert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SonElasticsearchApplicationTests.testCreateIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="son-elasticsearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zly.sonelasticsearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zly.sonelasticsearch" />
+      <option name="MAIN_CLASS_NAME" value="com.zly.sonelasticsearch.SonElasticsearchApplicationTests" />
+      <option name="METHOD_NAME" value="testCreateIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NjgWaterPlatformApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="njg_waterplatform" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.szaiot.njg.NjgWaterPlatformApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SonElasticsearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="son-elasticsearch" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zly.sonelasticsearch.SonElasticsearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SonFileuploadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="son-fileupload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zly.sonfileupload.SonFileuploadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SonHelloworldApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="son-helloworld" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zly.sonhelloworld.SonHelloworldApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SonJdbctemplateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="son-jdbctemplate" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.sonjdbctemplate.SonJdbctemplateApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SonJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="son-jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zly.sonjpa.SonJpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SonMongodbApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="son-mongodb" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zly.sonmongodb.SonMongodbApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SonMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="son-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zly.sonmybatis.SonMybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SonRabbitmqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="son-rabbitmq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zly.sonrabbitmq.SonRabbitmqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SonRedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="son-redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zly.sonredis.SonRedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SonRedisCacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="son-redis-cache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zly.sonrediscache.SonRedisCacheApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SonRestfulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="son-restful" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zly.sonrestful.SonRestfulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SonSwagger2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="son-swagger2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zly.sonswagger2.SonSwagger2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SonSwaggerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="son-swagger" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zly.sonswagger.SonSwaggerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SonTransactionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="son-transaction" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zly.sontransaction.SonTransactionApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SonElasticsearchApplicationTests.testCreateIndex" />
+        <item itemvalue="JUnit.SonElasticsearchApplicationTests.insert" />
+        <item itemvalue="Application.Send" />
+        <item itemvalue="Application.Recv2 (1)" />
+        <item itemvalue="Application.Recv (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5781614f-b0a8-4b07-968d-93dc2d6b1c3b" name="Default Changelist" comment="" />
+      <created>1569552231883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569552231883</updated>
+      <workItem from="1569552237644" duration="21965000" />
+      <workItem from="1569632000167" duration="21162000" />
+      <workItem from="1570496355364" duration="8428000" />
+      <workItem from="1570504854406" duration="18005000" />
+      <workItem from="1570583294872" duration="8869000" />
+      <workItem from="1570668687566" duration="7058000" />
+      <workItem from="1570754812417" duration="3033000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

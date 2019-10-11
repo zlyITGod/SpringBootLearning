@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/son-elasticsearch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/son-fileupload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/son-fileupload/src/main/resources/templates/from_file.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/son-helloworld" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/son-jdbctemplate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/son-jpa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/son-mongodb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/son-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/son-rabbitmq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/son-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/son-redis-cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/son-restful" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/son-swagger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/son-transaction" charset="UTF-8" />
+    <file url="file://F:/SVN工作代码/njg_waterplatform" charset="UTF-8" />
+  </component>
+</project>
